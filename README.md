@@ -207,5 +207,3 @@ curl -X POST "http://127.0.0.1:8002/login" \
 ## 📝 License <a name="license"></a>
 
 This project is for **educational purposes**.
-
-```
